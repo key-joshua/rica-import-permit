@@ -1,15 +1,6 @@
-# FRONTEND CHALLEGE
+# RICA - Import Permit
 
-- This Frontend Challenge.
-
-#### This is the Hosted link of the frontend challenge [Access Web Page Direct]
-
-https://Ksdacllp-dashboard-frontend-challenge.netlify.app/
-
-#### This is the Github repository link of the frontend challenge.
-
-https://github.com/key-joshua/Ksdacllp-Frontend
-
+- This is service onbording assessment.
 
 ## GETTING START WITH PROJECT
 
