@@ -7,8 +7,8 @@
 
 ## GETTING START WITH PROJECT
 
-- should clone this repository with ```git clone https://github.com/key-joshua/Ksdacllp-Frontend.git```
-- should switch into this branch with ```git checkout develop```
+- should clone this repository with ```https://github.com/key-joshua/rica-import-permit.git```
+- should switch into this branch with ```git checkout master```
 
 - After diving into a branch, should run the ```npm cache clean --force``` &```npm install``` by installing required libraries.
 - After installing the required libraries - should also set up a .env file by referring to the .env.example as required.
